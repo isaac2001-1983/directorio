@@ -1,0 +1,89 @@
+<manifest alg="2" build="2018.1.1.386" opt="true" iceEnabled="true" iceMarkupVersion="2" iceEnabledOptions="link,responsive,cachebuster,textStyling" exportTarget="other" domain="posada2024.com" resolutions="1x" timestamp="1729810501965">
+  <folder name="css">
+    <file name="site_global.css" crc="444006867"/>
+    <file name="untitled-2.css" crc="4267388530" ref="untitled-2"/>
+    <file name="index.css" crc="4284054478" ref="index"/>
+  </folder>
+  <folder name="assets">
+    <file name="casc_mesa-de-trabajo-1_mesa-de-trabajo-1.jpg" crc="266008398" seo="true" mt="1729537755000"/>
+    <file name="138555-769988112_small.mp4" crc="3860526067" seo="true" mt="1729547554000"/>
+  </folder>
+  <folder name="scripts">
+    <file name="jquery-1.8.3.min.js" crc="209076791" ref="index:untitled-2"/>
+    <file name="museutils.js" crc="3939489907" ref="index:untitled-2"/>
+    <file name="whatinput.js" crc="86476730" ref="index:untitled-2"/>
+    <file name="museconfig.js" crc="128606099" ref="index:untitled-2"/>
+    <file name="jquery.watch.js" crc="522499760" ref="index:untitled-2"/>
+    <file name="require.js" crc="4177726516" ref="index:untitled-2"/>
+    <file name="webpro.js" crc="3856315280" ref="untitled-2"/>
+    <file name="musewpslideshow.js" crc="244150766" ref="untitled-2"/>
+    <file name="jquery.museoverlay.js" crc="3877667098" ref="untitled-2"/>
+    <file name="touchswipe.js" crc="3888935200" ref="untitled-2"/>
+  </folder>
+  <folder name="images">
+    <file name="u423-4.png" crc="4256118463" ref="index"/>
+    <file name="u264-4.png" crc="145854220" ref="index"/>
+    <file name="1671569257_192892_gif-url.gif" crc="4223479588" seo="true" ref="untitled-2">
+      <caption webpage="untitled-2" alt=""/>
+    </file>
+    <file name="fb_img_1672989724410-crop-u1054.jpg" crc="3811367212" seo="true" ref="untitled-2">
+      <caption webpage="untitled-2" alt=""/>
+    </file>
+    <file name="fb_img_1672989728918-crop-u1064.jpg" crc="3915366520" seo="true" ref="untitled-2">
+      <caption webpage="untitled-2" alt=""/>
+    </file>
+    <file name="fb_img_1672112781103-crop-u1074.jpg" crc="3980681063" seo="true" ref="untitled-2">
+      <caption webpage="untitled-2" alt=""/>
+    </file>
+    <file name="fb_img_1672989503393-crop-u1095.jpg" crc="3783098118" seo="true" ref="untitled-2">
+      <caption webpage="untitled-2" alt=""/>
+    </file>
+    <file name="botones ubicacion 1-u1229.png" crc="215255156" ref="untitled-2"/>
+    <file name="botones ubicacion 2-u1229-r.png" crc="40441886" ref="untitled-2"/>
+    <file name="botones asistencia 1-u1254.png" crc="3765406585" ref="untitled-2"/>
+    <file name="botones asistencia 2-u1254-r.png" crc="530848391" ref="untitled-2"/>
+    <file name="christmas-gifts-black-background-with-copyspace-crop-u1458.jpg" crc="4242816630" seo="true" ref="index">
+      <caption webpage="index" alt=""/>
+    </file>
+    <file name="21532554_6492483-crop-u1332.jpg" crc="3766180347" seo="true" ref="untitled-2">
+      <caption webpage="untitled-2" alt=""/>
+    </file>
+    <file name="christmas-lights-transparent-background-11-usagif.gif" crc="330414797" seo="true" ref="untitled-2">
+      <caption webpage="untitled-2" alt=""/>
+      <caption webpage="untitled-2" alt=""/>
+    </file>
+    <file name="820885_27392-nwocid-crop-u1342.jpg" crc="464268974" seo="true" ref="untitled-2">
+      <caption webpage="untitled-2" alt=""/>
+    </file>
+    <file name="santa-clause-7548128_1280-u1175.png" crc="3759221988" ref="untitled-2"/>
+    <file name="christmas-lights-transparent-background-154-usagif.gif" crc="3941778860" seo="true" ref="untitled-2">
+      <caption webpage="untitled-2" alt=""/>
+      <caption webpage="untitled-2" alt=""/>
+    </file>
+    <file name="1594504_215935-p1808p-366-crop-u1352.jpg" crc="408627923" seo="true" ref="untitled-2">
+      <caption webpage="untitled-2" alt=""/>
+    </file>
+    <file name="christmas-lights-transparent-background-9-usagif.gif" crc="166012181" seo="true" ref="untitled-2">
+      <caption webpage="untitled-2" alt=""/>
+      <caption webpage="untitled-2" alt=""/>
+    </file>
+    <file name="christmas-lights-transparent-background-56832-usagif.gif" crc="3986030090" seo="true" ref="untitled-2">
+      <caption webpage="untitled-2" alt=""/>
+      <caption webpage="untitled-2" alt=""/>
+    </file>
+    <file name="botones inicio 2-u1487.png" crc="1466593" ref="index"/>
+    <file name="botones inicio 1-u1487-r.png" crc="3910494379" ref="index"/>
+    <file name="botones inicio 1-u1487-m.png" crc="3910494379" ref="index"/>
+    <file name="ball-9857.gif" crc="3938234418" seo="true" ref="untitled-2">
+      <caption webpage="untitled-2" alt=""/>
+    </file>
+    <file name="ball-9860.gif" crc="3861090268" seo="true" ref="untitled-2">
+      <caption webpage="untitled-2" alt=""/>
+    </file>
+    <file name="ball-9858.gif" crc="169778391" seo="true" ref="untitled-2">
+      <caption webpage="untitled-2" alt=""/>
+    </file>
+  </folder>
+  <file name="index.html" crc="4284404950" seo="true" mt="1729810477457" redirect="true"/>
+  <file name="untitled-2.html" crc="284177898" seo="true" mt="1729810494528" redirect="true"/>
+</manifest>
