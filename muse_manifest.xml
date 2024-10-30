@@ -1,0 +1,97 @@
+<manifest alg="2" build="2018.1.1.386" opt="true" iceEnabled="true" iceMarkupVersion="2" iceEnabledOptions="link,responsive,cachebuster,textStyling" exportTarget="other" domain="posada2024.com" resolutions="1x" timestamp="1730309397355">
+  <folder name="css">
+    <file name="site_global.css" crc="444006867"/>
+    <file name="index.css" crc="193912931" ref="index"/>
+    <file name="posada-2024.css" crc="4249328107" ref="posada-2024"/>
+  </folder>
+  <folder name="assets">
+    <file name="138555-769988112_small.mp4" crc="3860526067" seo="true" mt="1729547554000"/>
+    <file name="fondoere_mesa-de-trabajo-1.jpg" crc="4038796141" seo="true" mt="1730226371000"/>
+    <file name="fondoere_mesa-de-trabajo-1-01.jpg" crc="4229723131" seo="true" mt="1730309245000"/>
+  </folder>
+  <folder name="scripts">
+    <file name="jquery-1.8.3.min.js" crc="209076791" ref="index:posada-2024"/>
+    <file name="museutils.js" crc="3939489907" ref="index:posada-2024"/>
+    <file name="whatinput.js" crc="86476730" ref="index:posada-2024"/>
+    <file name="museconfig.js" crc="128606099" ref="index:posada-2024"/>
+    <file name="jquery.watch.js" crc="522499760" ref="index:posada-2024"/>
+    <file name="require.js" crc="4177726516" ref="index:posada-2024"/>
+    <file name="webpro.js" crc="3856315280" ref="posada-2024"/>
+    <file name="musewpslideshow.js" crc="244150766" ref="posada-2024"/>
+    <file name="jquery.museoverlay.js" crc="3877667098" ref="posada-2024"/>
+    <file name="touchswipe.js" crc="3888935200" ref="posada-2024"/>
+  </folder>
+  <folder name="images">
+    <file name="christmas-lights-transparent-background-9-usagif.gif" crc="166012181" seo="true" ref="posada-2024">
+      <caption webpage="untitled-2" alt=""/>
+      <caption webpage="untitled-2" alt=""/>
+      <caption webpage="posada-2024" alt=""/>
+      <caption webpage="posada-2024" alt=""/>
+    </file>
+    <file name="christmas-lights-transparent-background-56832-usagif.gif" crc="3986030090" seo="true" ref="posada-2024">
+      <caption webpage="untitled-2" alt=""/>
+      <caption webpage="untitled-2" alt=""/>
+      <caption webpage="posada-2024" alt=""/>
+      <caption webpage="posada-2024" alt=""/>
+    </file>
+    <file name="intercambio-u1552.png" crc="445442834" ref="posada-2024"/>
+    <file name="bandeja-de-comida-u1562.png" crc="4224875544" ref="posada-2024"/>
+    <file name="regalo-de-boda-u1572.png" crc="159443578" ref="posada-2024"/>
+    <file name="altavoz-de-la-musica-u1595.png" crc="4153973534" ref="posada-2024"/>
+    <file name="u1136-4.png" crc="3830559414" ref="posada-2024"/>
+    <file name="u1582-4.png" crc="4211538830" ref="posada-2024"/>
+    <file name="rifa-u1896.png" crc="106386115" ref="posada-2024"/>
+    <file name="juego-de-mesa-u1585.png" crc="324614649" ref="posada-2024"/>
+    <file name="u1203-4.png" crc="227592668" ref="posada-2024"/>
+    <file name="1salon-crop-u1054.jpg" crc="4212928417" seo="true" ref="posada-2024">
+      <caption webpage="posada-2024" alt=""/>
+    </file>
+    <file name="2salon-crop-u1064.jpg" crc="423536100" seo="true" ref="posada-2024">
+      <caption webpage="posada-2024" alt=""/>
+    </file>
+    <file name="3salon-crop-u1074.jpg" crc="3828748140" seo="true" ref="posada-2024">
+      <caption webpage="posada-2024" alt=""/>
+    </file>
+    <file name="4salon-crop-u1095.jpg" crc="3896980674" seo="true" ref="posada-2024">
+      <caption webpage="posada-2024" alt=""/>
+    </file>
+    <file name="6salon-crop-u1697.jpg" crc="482905818" seo="true" ref="posada-2024">
+      <caption webpage="posada-2024" alt=""/>
+    </file>
+    <file name="7 salon-crop-u1743.jpg" crc="4032220525" seo="true" ref="posada-2024">
+      <caption webpage="posada-2024" alt=""/>
+    </file>
+    <file name="carta_mesa de trabajo 1.jpg" crc="3813755055" seo="true" ref="index">
+      <caption webpage="index" alt=""/>
+    </file>
+    <file name="botones abrirr-u1487.png" crc="91838192" ref="index"/>
+    <file name="botones abrir-u1487-r.png" crc="4171311328" ref="index"/>
+    <file name="a487e8a44960894b6fd4852d08c97bbc.gif" crc="4047119115" seo="true" ref="posada-2024">
+      <caption webpage="posada-2024" alt=""/>
+      <caption webpage="posada-2024" alt=""/>
+    </file>
+    <file name="u1867-7.png" crc="46823363" ref="posada-2024"/>
+    <file name="u1930-5.png" crc="364161229" ref="posada-2024"/>
+    <file name="u1939-6.png" crc="4212183366" ref="posada-2024"/>
+    <file name="u1194-12.png" crc="255268480" ref="posada-2024"/>
+    <file name="u2059.png" crc="4276179160" ref="posada-2024"/>
+    <file name="u1631-5.png" crc="3932649215" ref="posada-2024"/>
+    <file name="u1639-5.png" crc="3889315611" ref="posada-2024"/>
+    <file name="u1645-5.png" crc="4081536818" ref="posada-2024"/>
+    <file name="u1648-5.png" crc="3904152698" ref="posada-2024"/>
+    <file name="u1654-5.png" crc="4062623138" ref="posada-2024"/>
+    <file name="u1893-5.png" crc="310131550" ref="posada-2024"/>
+    <file name="u1251-5.png" crc="4043027399" ref="posada-2024"/>
+    <file name="botones ubicacion 2-u1229.png" crc="234157135" ref="posada-2024"/>
+    <file name="botones ubicacion 1-u1229-r.png" crc="522681824" ref="posada-2024"/>
+    <file name="botones asistencia 2-u1254.png" crc="359882842" ref="posada-2024"/>
+    <file name="botones asistencia 1-u1254-r.png" crc="160437864" ref="posada-2024"/>
+    <file name="vecteezy_snowflakes-clipart-design-illustration_9385291.png" crc="4079825294" seo="true" ref="posada-2024">
+      <caption webpage="posada-2024" alt=""/>
+      <caption webpage="posada-2024" alt=""/>
+    </file>
+    <file name="u2181.png" crc="4204398880" ref="posada-2024"/>
+  </folder>
+  <file name="index.html" crc="4247624406" seo="true" mt="1730226512001" redirect="true"/>
+  <file name="posada-2024.html" crc="3838552292" seo="true" mt="1730309378966" redirect="true"/>
+</manifest>
